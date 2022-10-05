@@ -22,5 +22,5 @@
 # data.close()
 # exit()
 
-import lec as l
+import lec1.lec as l
 print(l.f(1))
